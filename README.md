@@ -4,3 +4,12 @@
 
 ### (Kits to Analyze Time Series) 
 A library made by Facebook researchers to on with forecasting in a simple way.
+
+
+Kats is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis. 
+Time series analysis is an essential component of Data Science and Engineering work at industry, from understanding the key statistics 
+and characteristics, detecting regressions and anomalies, to forecasting future trends. Kats aims to provide the one-stop shop for time 
+series analysis, including detection, forecasting, feature extraction/embedding, multivariate analysis, etc.
+
+Kats is released by Facebook's Infrastructure Data Science team. It is available for download on PyPI.
+
