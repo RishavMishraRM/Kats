@@ -14,5 +14,6 @@ series analysis, including detection, forecasting, feature extraction/embedding,
 Kats is released by Facebook's Infrastructure Data Science team. It is available for download on PyPI.
 
 1. Kats.ipynb
-2. kats_202_detection
-3. kats_203_tsfeatures.ipynb
+2. Kats_forecasting
+3. kats_202_detection
+4. kats_203_tsfeatures.ipynb
