@@ -1,6 +1,6 @@
 # Kats
 
-<div align="center">
+<div align="left">
 <img src="kats_logo.svg" width="40%"/>
 </div>
 
